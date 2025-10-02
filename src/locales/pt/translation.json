@@ -1,0 +1,66 @@
+{
+  "about": "Sobre Mim",
+  "back_home": "← Voltar para Home",
+
+  "objective": "Objetivo",
+  "objective_text": "Atuar como Desenvolvedor Front-End.",
+
+  "resume": "Resumo Profissional",
+  "resume_text": "Atualmente em formação na área de Desenvolvimento Web, com conhecimentos sólidos em HTML, CSS e JavaScript. Já concluí módulos fundamentais de front-end, incluindo lógica de programação, consumo de APIs com Fetch e manipulação de DOM. Possuo conhecimento em Testes Automatizados com Jest e desenvolvimento com React, incluindo utilização da Context API. Também tenho experiência com TailwindCSS e TypeScript, ampliando minhas habilidades para construir aplicações modernas, escaláveis e organizadas. Sou uma pessoa dedicada, proativa e criativa, com facilidade para trabalhar em equipe e resolver problemas. Busco minha primeira oportunidade como desenvolvedor front-end júnior para aplicar meus conhecimentos, colaborar em projetos reais e continuar evoluindo técnica e profissionalmente.",
+
+  "education": "Formação Acadêmica",
+  "courses": "Cursos e Certificações",
+  "languages": "Idiomas",
+
+  "education_items": [
+    "Centro de Ensino Educare - Ensino Médio - jan/2018 - dez/2019."
+  ],
+  "courses_items": [
+    "Dev Quest - Dev em Dobro - Desenvolvimento Web Front-End - abr/2025 - cursando",
+    "Sebrae - Aprender a Empreender - fev/2019"
+  ],
+  "languages_items": ["Inglês Avançado", "Português Nativo"],
+
+  "tech_skills": "Competências Técnicas",
+  "tech_skills_items": [
+    "HTML5",
+    "CSS3",
+    "JavaScript (ES6+)",
+    "Manipulação do DOM",
+    "Consumo de APIs (Fetch)",
+    "Git e GitHub",
+    "React.js + Vite",
+    "TypeScript",
+    "TailwindCSS",
+    "Context API"
+  ],
+
+  "soft_skills": "Competências Comportamentais",
+  "soft_skills_items": [
+    "Trabalho em Equipe",
+    "Comunicação",
+    "Proatividade",
+    "Organização",
+    "Criatividade"
+  ],
+
+  "projects": "Projetos",
+  "github": "GitHub",
+  "vercel": "Vercel",
+
+  "project_descriptions": {
+    "mini_ats": "Um mini sistema de gerenciamento de candidaturas, desenvolvido em React + TypeScript, que permite cadastrar, editar, remover e filtrar vagas.",
+    "admin_dashboard": "Um painel administrativo moderno e responsivo desenvolvido com React + Vite, TypeScript e Tailwind CSS. Inclui gerenciamento de usuários, configurações salvas no navegador e visualização de métricas.",
+    "analisador_gemini": "Este projeto é um analisador de código alimentado pela API Gemini do Google. Desenvolvido com React + Vite.",
+    "search_github": "Buscar na API do GitHub um usuário e retornar suas informações como nome, bio, imagem de perfil e repositórios.",
+    "pokemon_explorer": "Aplicação React+Vite para listar e detalhar Pokémons utilizando a PokéAPI.",
+    "doce_encanto": "Um site moderno e responsivo para a confeitaria fictícia Doce Encanto, desenvolvido em React + Vite, com foco em experiência do usuário e design atraente."
+  },
+
+  "contact_title": "Entre em Contato",
+  "contact_qr_text": "Escaneie o QR Code para acessar meu LinkedIn",
+  "contact_whatsapp": "WhatsApp",
+  "contact_email": "E-mail",
+
+  "contact": "Contato"
+}
