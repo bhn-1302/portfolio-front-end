@@ -3,21 +3,21 @@
   "back_home": "← Back to Home",
 
   "objective": "Objective",
-  "objective_text": "Work as a Front-End Developer.",
+  "objective_text": "Seeking a position as a Junior Front-End Developer.",
 
   "resume": "Professional Summary",
-  "resume_text": "Currently in training in Web Development, with solid knowledge in HTML, CSS and JavaScript. I have already completed fundamental front-end modules, including programming logic, API consumption with Fetch and DOM manipulation. I have knowledge in Automated Testing with Jest and development with React, including the use of Context API. I also have experience with TailwindCSS and TypeScript, expanding my skills to build modern, scalable and well-structured applications. I am a dedicated, proactive and creative person, with ease to work in a team and solve problems. I am looking for my first opportunity as a junior front-end developer to apply my knowledge, collaborate on real projects and continue to grow technically and professionally.",
+  "resume_text": "Currently in training in Web Development with solid knowledge in HTML, CSS and JavaScript. Completed the Front-End module, covering programming logic, API consumption with Fetch, and DOM manipulation. Skilled in React.js (including Context API), TypeScript, and Tailwind CSS, as well as knowledge in Automated Testing with Jest. I am currently expanding my studies with the Back-End module, aiming to gain a broader understanding of the full development cycle. I am a dedicated, proactive, and creative professional with strong teamwork and problem-solving skills. Seeking my first opportunity as a Junior Front-End Developer to apply my knowledge, contribute to real projects, and continue growing both technically and professionally.",
 
   "education": "Education",
   "courses": "Courses and Certifications",
   "languages": "Languages",
 
   "education_items": [
-    "Centro de Ensino Educare - High School - Jan/2018 - Dec/2019"
+    "Centro de Ensino Educare - High School (Jan/2018 – Dec/2019)"
   ],
   "courses_items": [
-    "Dev Quest - Dev em Dobro - Front-End Web Development - Apr/2025 - ongoing",
-    "Sebrae - Learning to Undertake - Feb/2019"
+    "Dev Quest - Dev em Dobro - Front-End Web Development (Apr/2025 – Completed)",
+    "Sebrae - Entrepreneurship Basics (Feb/2019)"
   ],
   "languages_items": ["Advanced English", "Native Portuguese"],
 
@@ -31,7 +31,7 @@
     "Git and GitHub",
     "React.js + Vite",
     "TypeScript",
-    "TailwindCSS",
+    "Tailwind CSS",
     "Context API"
   ],
 

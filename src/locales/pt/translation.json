@@ -3,10 +3,10 @@
   "back_home": "← Voltar para Home",
 
   "objective": "Objetivo",
-  "objective_text": "Atuar como Desenvolvedor Front-End.",
+  "objective_text": "Atuar como Desenvolvedor Front-End Júnior.",
 
   "resume": "Resumo Profissional",
-  "resume_text": "Atualmente em formação na área de Desenvolvimento Web, com conhecimentos sólidos em HTML, CSS e JavaScript. Já concluí módulos fundamentais de front-end, incluindo lógica de programação, consumo de APIs com Fetch e manipulação de DOM. Possuo conhecimento em Testes Automatizados com Jest e desenvolvimento com React, incluindo utilização da Context API. Também tenho experiência com TailwindCSS e TypeScript, ampliando minhas habilidades para construir aplicações modernas, escaláveis e organizadas. Sou uma pessoa dedicada, proativa e criativa, com facilidade para trabalhar em equipe e resolver problemas. Busco minha primeira oportunidade como desenvolvedor front-end júnior para aplicar meus conhecimentos, colaborar em projetos reais e continuar evoluindo técnica e profissionalmente.",
+  "resume_text": "Profissional em formação na área de Desenvolvimento Web, com conhecimentos sólidos em HTML, CSS e JavaScript. Concluí o módulo de Front-End, abrangendo lógica de programação, consumo de APIs com Fetch e manipulação do DOM. Tenho experiência em React.js (incluindo Context API), TypeScript e Tailwind CSS, além de conhecimentos em Testes Automatizados com Jest. Atualmente iniciei o módulo de Back-End, ampliando minha compreensão sobre todo o ciclo de desenvolvimento de aplicações. Sou dedicado, proativo e criativo, com facilidade para trabalhar em equipe e resolver problemas. Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior para aplicar meus conhecimentos em projetos reais e continuar evoluindo técnica e profissionalmente.",
 
   "education": "Formação Acadêmica",
   "courses": "Cursos e Certificações",
@@ -16,7 +16,7 @@
     "Centro de Ensino Educare - Ensino Médio - jan/2018 - dez/2019."
   ],
   "courses_items": [
-    "Dev Quest - Dev em Dobro - Desenvolvimento Web Front-End - abr/2025 - cursando",
+    "Dev Quest - Dev em Dobro - Desenvolvimento Web Front-End - abr/2025 - concluído",
     "Sebrae - Aprender a Empreender - fev/2019"
   ],
   "languages_items": ["Inglês Avançado", "Português Nativo"],
@@ -31,7 +31,7 @@
     "Git e GitHub",
     "React.js + Vite",
     "TypeScript",
-    "TailwindCSS",
+    "Tailwind CSS",
     "Context API"
   ],
 

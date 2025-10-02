@@ -118,6 +118,7 @@ export const Contact: React.FC = () => {
           <motion.a
             whileHover={{ scale: 1.05 }}
             href={email}
+            target="_blank"
             className="px-4 py-2 bg-blue-500 text-white rounded-lg shadow hover:bg-blue-600 transition"
           >
             {t("contact_email")}
